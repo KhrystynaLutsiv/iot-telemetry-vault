@@ -1,0 +1,1 @@
+type: component created: 2026-10-28 tags: [typer, cli]
