@@ -1,0 +1,8 @@
+[[Telemetriya-Obladnannya]]
+[[Chasovi-Vykna-Agregatsiyi]]
+[[Pohibky-ta-Anomaliyi]]
+[[Modul-Importu]]
+[[Pydantic-Validator]]
+[[CLI-Interfeys]]
+[[Glosariy-Proektu]]
+[[ADR-1-Vykorystannya-DuckDB]]
